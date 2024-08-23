@@ -5,8 +5,15 @@ This is a Project iniciated in university that i'm implementating with new featu
 
 It is built with C++ but i plan to re-code it in C# since i know the stack better.
 
+To use the program, just run it and navigate through the interactive menu.
+
 FEATURES: 
-- Sum two given times;
-- Compare equality of two given times;
-- format given time in 24h:60m:60s
-- 
+- addition and subtraction;
+- equality comparison;
+- formatation;
+- magnitude comparison.
+
+FEATURES TO ADD:
+- frontend development;
+- more operations.
+
